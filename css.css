@@ -1,0 +1,109 @@
+    .body {
+        background-image: url(pic.jpg);
+    }
+    
+    .box1 {
+        border: 5px solid red;
+        padding: 20px 100px;
+        display: inline-block;
+        width: fit-content;
+        border-radius: 50px;
+        color: white;
+        background-color: black;
+        margin-top: 50px;
+    }
+    
+    .box2 {
+        border: 5px solid red;
+        padding: 10px 100px;
+        display: inline-block;
+        width: fit-content;
+        border-radius: 50px;
+        color: white;
+        background-color: black;
+        margin-top: 100px;
+        position: absolute;
+        left: 240px;
+        top: 0px;
+    }
+    
+    .box3 {
+        border: 5px solid red;
+        padding: 20px 100px;
+        width: fit-content;
+        border-radius: 50px;
+        color: white;
+        background-color: black;
+        margin-top: 50px;
+        display: inline-block;
+        margin-left: 500px;
+    }
+    
+    .circle {
+        text-align: center;
+        border: 10px solid grey;
+        border-radius: 550px;
+        height: 350px;
+        width: 350px;
+        color: black;
+        background-color: aqua;
+        margin-top: 200px;
+        margin-left: 150px;
+        display: inline-block;
+    }
+    
+    .contain {
+        padding-top: 40px;
+    }
+    
+    .hr {
+        border: 1px solid white;
+    }
+    
+    .form {
+        display: inline-block;
+        border: 10px dashed red;
+        text-align: center;
+        margin-left: 300px;
+        margin-top: 50px;
+        padding: 0px 70px 70px 70px;
+        background-color: white;
+    }
+    
+    .headingform {
+        font-size: 1.5rem;
+    }
+    
+    .menubox {
+        border: 5px solid red;
+        padding: 20px 150px;
+        display: inline-block;
+        border-radius: 50px;
+        color: white;
+        background-color: black;
+        margin-left: 580px;
+        margin-top: 30px;
+    }
+    
+    .boxflex {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    
+    .boxflex p {
+        font-size: 1.5rem;
+    }
+    
+    .box {
+        border: 2px solid black;
+        border-radius: 20px;
+        width: 400px;
+        text-align: center;
+        margin: 50px 10px;
+        background-color: rgb(39, 245, 193);
+    }
+    
+    .hrflex {
+        border-bottom: 1px solid red;
+    }
